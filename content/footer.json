@@ -1,8 +1,8 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
+			"person": "Ubirajara - Marketing Director",
+			"link": "https://ubidigital.com.br/",
 			"note": "Thank you for all the advice and feedback."
 		},
 		{ 
@@ -11,9 +11,9 @@
 			"note": "Checkout their amazing vector illustrations."
 		},
 		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
+			"person": "Tailwind CSS - CSS framework",
+			"link": "https://tailwindcss.com/",
+			"note": "Rapidly build modern websites without ever leaving your HTML."
 		},
 		{ 
 			"person": "Vercel - Platform",
@@ -24,27 +24,24 @@
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "Moigami Tecnologias",
+			"link": "https://www.moigami.com.br/",
+			"note": "Seu site performático, elegante e escalável."
+		},
+		{ 
+			"person": "Moisés B. Almeida",
+			"link": "https://www.moisesbalmeida.com.br/",
+			"note": "Música para o homem se lembrar de Deus."
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
-		},
-		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
-		},
-		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/moisesbalmeida/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/moigamijunior",
 			"icon": "github"
 		}
 	]

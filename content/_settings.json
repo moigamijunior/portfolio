@@ -1,14 +1,14 @@
 {
-	"name": "Andrew Nelson",
+	"name": "Moisés B. Almeida",
 	"logo": "",
 	
 	"username": {
-		"github": "atlamors",
-		"medium": "@--andrewnelson"
+		"github": "moigamijunior",
+		"linkedin": "moisesbalmeida"
 	},
 
 	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
+		"forkthis": "Roube este tema! É open-source",
 		"repo_html": "https://www.github.com/atlamors/portfolio",
 		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
 	}
