@@ -30,29 +30,30 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development, operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					subTitle="Equipped with a multifaceted skill set encompassing UX/UI design, full-stack development, operational architecture, systems design, and strategic branding, I stand as a business-centric digital strategist, adept at transforming complex challenges into scalable solutions."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
+						<img src="/img/family-photo-2.webp" alt="Moisés family photo"/>
 						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Strategic Leadership and Innovation"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="Beyond my technical and design capabilities, I bring to the table robust leadership, strategic planning, and problem-solving skills, refined through my roles in business leadership, partnership management, and personal endeavors as a husband and father. My diverse interests, particularly in music and writing, fuel my creativity and provide a unique perspective to every project, ensuring a thoughtful, inspired approach to overcoming challenges."
+
 						/>
 						<BadgesBlock 
-							title="Reasearch and planning" 
+							title="Strategic Design and System Architecture" 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
+							copy="I take particular delight in the strategic planning and architectural design of projects, focusing on creating cohesive Design Systems and comprehensive Brand Strategies. My approach integrates the multiple facets of user experience, ensuring a seamless, impactful interaction at every user touchpoint."
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>
