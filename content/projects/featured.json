@@ -29,7 +29,7 @@
 		"url": "https://www.ubitracker.com.br",
 		"repo": "Private",
 		"descriptionTitle": "Advanced Customer Journey Tracker",
-		"description": "application harnessing Next.js for optimal UI, NestJS for scalable server-side logic, and MongoDB for flexible data storage. Tailored to map and enhance the customer journey from discovery to purchase.",
+		"description": "application harnessing Next.js, NestJS and MongoDB. Tailored to map and enhance the customer journey from discovery to purchase.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
