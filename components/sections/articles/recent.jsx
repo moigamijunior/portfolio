@@ -23,7 +23,7 @@ export default function Recent({ mediumArticles }) {
 				/>
 				<section className={css.projects}>
 					{
-					articles.map( ({ title, pubDate, link, author, thumbnail, categories }, index) => {
+					articles?.map( ({ title, pubDate, link, author, thumbnail, categories }, index) => {
 						const date = new Date(pubDate).toDateString()
 						return (
 							<>
